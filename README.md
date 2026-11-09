@@ -9,6 +9,7 @@ php artisan serve
 ```
 
 Buka `http://127.0.0.1:8000/buku/1` untuk melihat detail buku.
+Buka `http://127.0.0.1:8000/jadwal/1` untuk melihat detail jadwal.
 
 ## Contoh fitur
 
